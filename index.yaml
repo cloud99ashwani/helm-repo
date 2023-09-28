@@ -9,6 +9,6 @@ entries:
     name: hello-world
     type: application
     urls:
-    - helm repo index hello-world --url https://github.com/cloud99ashwani/helm-repo/blob/main
+    - helm repo index hello-world --url https://github.com/cloud99ashwani/helm-repo/blob/main/
     version: 0.1.0
 generated: "2023-09-29T03:08:21.143863+05:30"
